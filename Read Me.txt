@@ -1,2 +1,4 @@
 This project was created as part of the Software engineering thread of Data Structures and Algorithms at evergreen state college.
 This project was with 5 other people, Nicole, Patrick, Quyhn, Justin, and Chad. It was wonderful working with you all, we did a great job on the project considering the 2 week timeline. 
+
+this program scrapes the site Fbref for soccer player seasons. 
